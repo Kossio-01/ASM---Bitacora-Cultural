@@ -1,0 +1,43 @@
+{
+  "app": {
+    "title": "Bitácora Cultural",
+    "subtitle": "Proyecto 2 - Arquitectura de Sistemas Multimedia"
+  },
+  "home": {
+    "title": "Bienvenido a Bitácora Cultural",
+    "description": "Una aplicación web desarrollada con React + Vite y Material UI para gestionar contenido cultural multimedia.",
+    "features": [
+      "Navegación responsiva con React Router",
+      "Interfaz moderna con Material UI v5",
+      "Carga dinámica de contenido desde JSON",
+      "Diseño adaptable para todos los dispositivos"
+    ]
+  },
+  "media": {
+    "title": "Galería Multimedia",
+    "description": "Explora nuestra colección de contenido cultural.",
+    "items": [
+      {
+        "id": 1,
+        "type": "image",
+        "title": "Arte Colonial",
+        "description": "Ejemplo de arte colonial latinoamericano",
+        "url": "/images/placeholder-1.jpg"
+      },
+      {
+        "id": 2,
+        "type": "video",
+        "title": "Documentario Cultural",
+        "description": "Video documental sobre tradiciones culturales",
+        "url": "/videos/placeholder-video.mp4"
+      },
+      {
+        "id": 3,
+        "type": "image",
+        "title": "Arquitectura Moderna",
+        "description": "Ejemplo de arquitectura contemporánea",
+        "url": "/images/placeholder-2.jpg"
+      }
+    ]
+  }
+}
